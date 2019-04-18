@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Mob_programming
 * For simplicity, it should be a command-line app, e.g.:<br />
   `ruby calculator.rb --amount 100000 --interest 5 --amort 25 --frequency monthly`
 * Write the code as if it were real production code, i.e. think about tests and when to refactor
-* You are free to change delete anyone else's code
+* You are free to change or delete anyone else's code
 * The repo has RSpec installed but nothing else
   
 ## Process
