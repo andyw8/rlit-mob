@@ -3,6 +3,7 @@
 https://en.wikipedia.org/wiki/Mob_programming
 
 * The exercise is to build a mortgage calculator similar to the Payment Plan tool on https://itools-ioutils.fcac-acfc.gc.ca/MC-CH/MCCalc-CHCalc-eng.aspx
+* There won't be enough time to build everything – but aim to deliver something of business value
 * Using Ruby only, not Rails.
 * For simplicity, it should be a command-line app, e.g.:<br />
   `ruby calculator.rb --amount 100000 --interest 5 --amort 25 --frequency monthly`
