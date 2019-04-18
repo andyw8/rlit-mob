@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Mob_programming
 * One person acts as navigator, using Chromecast to broadcast their screen.
 * We switch to a new randomly chosen navigator every 5 minutes.
 * When it's time to switch, the current navigator should commmit all work in progress and push, e.g.<br />
-  `git add -A && git push`. 
+  `git add -A && git commit -m "wip" && git push`
 * The next navigator should then pull the code.
 * The navigator can use whatever editor or IDE they wish.
 * Write the code as if it were real production code, so think about tests and refactoring
