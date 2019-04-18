@@ -12,7 +12,7 @@ https://en.wikipedia.org/wiki/Mob_programming
   `git add -A && git commit -m "wip" && git push`
 * The next navigator should then pull the code.
 * The navigator can use whatever editor or IDE they wish.
-* Write the code as if it were real production code, so think about tests and refactoring
+* Write the code as if it were real production code, i.e. think about tests and when to refactor
 * For the exercise, don't worry about writing proper commit messages, `wip` is fine.
 * No need to use branches or pull requests, push to master
 * Think about how to split the work so we can deliver business value at the end of the hour
