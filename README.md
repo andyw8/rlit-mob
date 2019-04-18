@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Mob_programming
 
 * The exercise is to build a mortgage calculator similar to the Payment Plan tool on https://itools-ioutils.fcac-acfc.gc.ca/MC-CH/MCCalc-CHCalc-eng.aspx
 * Your customer is Manas, so ask him questions about the requirements!
-* There won't be enough time to build feature, but aim to deliver something of business value at the end.
+* There won't be enough time to build every feature, but aim to deliver something of business value at the end.
 * We will stop after 45 minutes.
 
 ## Details
